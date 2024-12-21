@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1734780922 source:d:\semestre 1 mi\c++\planche6\exercice4\main.cpp
+	"Piece.h"
+	"Pion.h"
+	"Roi.h"
+	<vector>
+
+1734780926 d:\semestre 1 mi\c++\planche6\exercice4\include\piece.h
+	<string>
+	<iostream>
+
+1734780926 d:\semestre 1 mi\c++\planche6\exercice4\include\pion.h
+	"Piece.h"
+
+1734780926 d:\semestre 1 mi\c++\planche6\exercice4\include\roi.h
+	"Piece.h"
+
+1734780926 source:d:\semestre 1 mi\c++\planche6\exercice4\src\pion.cpp
+	"Pion.h"
+
+1734780874 source:d:\semestre 1 mi\c++\planche6\exercice4\src\roi.cpp
+	"Roi.h"
+

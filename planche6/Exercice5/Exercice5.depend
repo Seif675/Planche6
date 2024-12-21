@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1734782324 source:d:\semestre 1 mi\c++\planche6\exercice5\main.cpp
+	<iostream>
+	"Personne.h"
+	"Enseignant.h"
+	"Etudiant.h"
+	"Contractuel.h"
+
+1734781932 d:\semestre 1 mi\c++\planche6\exercice5\include\personne.h
+	<string>
+
+1734782030 d:\semestre 1 mi\c++\planche6\exercice5\include\enseignant.h
+	"Personne.h"
+
+1734782324 d:\semestre 1 mi\c++\planche6\exercice5\include\etudiant.h
+	"Personne.h"
+
+1734782514 d:\semestre 1 mi\c++\planche6\exercice5\include\contractuel.h
+	"Enseignant.h"
+	"Etudiant.h"
+
+1734782056 source:d:\semestre 1 mi\c++\planche6\exercice5\src\enseignant.cpp
+	"Enseignant.h"
+
+1734782156 source:d:\semestre 1 mi\c++\planche6\exercice5\src\etudiant.cpp
+	"Etudiant.h"
+
+1734781974 source:d:\semestre 1 mi\c++\planche6\exercice5\src\personne.cpp
+	"Personne.h"
+
